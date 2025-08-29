@@ -1,0 +1,14 @@
+# IDE configuration files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large data/model files (optional, but recommended)
+# Consider using Git LFS for large files you need to track.
+*.csv
+*.pth
+
+# Generated images/plots (if they can be recreated by your code)
+*.png
