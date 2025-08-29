@@ -10,5 +10,3 @@ __pycache__/
 *.csv
 *.pth
 
-# Generated images/plots (if they can be recreated by your code)
-*.png
