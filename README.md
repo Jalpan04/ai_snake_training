@@ -1,6 +1,7 @@
 # AI Snake Game using Deep Q-Learning
 
 This project is an implementation of a Reinforcement Learning agent that learns to play the classic Snake game. The agent is built using a Deep Q-Network (DQN) with PyTorch and interacts with a custom game environment built with Pygame.
+<img width="450" height="308" alt="snake" src="https://github.com/user-attachments/assets/60f20def-d2d3-435d-baf4-f5c3551d608a" />
 
 
 
